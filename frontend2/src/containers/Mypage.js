@@ -1,13 +1,14 @@
 import React,{Component} from 'react'
 
-class Button extends Component{
+
+class Mypage extends Component{
 
     render(){
         return(
             <div>
-                <h1>Button</h1>
+                <h1>Mypage</h1>
             </div>
         )
     }
 }
-export default Button
+export default Mypage
